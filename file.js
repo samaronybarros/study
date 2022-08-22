@@ -1,3 +1,3 @@
-function wrongName () {
-  console.log("Error")
+function correctName () {
+  console.log("Correct")
 }
